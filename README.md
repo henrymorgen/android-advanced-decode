@@ -1,6 +1,6 @@
 ## **《Android进阶解密》源码**
 
-![](https://upload-images.jianshu.io/upload_images/1417629-1bdfea136233157c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/1417629-9c4d6f64ebf88d26.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### **源码目录介绍**
 

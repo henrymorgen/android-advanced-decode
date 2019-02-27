@@ -34,7 +34,7 @@ chapter_15  | 第15章 插件化技术
 ### **后续内容**
 由于本书篇幅有限，我还有很多想要讲的技术知识无法在本书中展现，这些技术知识我会继续在自己的博客和微信公众号上分享出来。如果感兴趣，你可以继续关注我的博客和微信公众号 <br>
 独立博客：http://liuwangshu.cn<br>
-CSDN博客：http://blog.csdn.net/itachi85<br>
+CSDN博客：https://liuwangshu.blog.csdn.net/<br>
 QQ群：499174415<br>
  
 分享Android、Java和大前端相关技术。 <br>
